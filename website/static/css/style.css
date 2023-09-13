@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: rgba(58, 50, 50, 0.474);
+}
+
+ul {
+    list-style-type: none;
+}
+
+li a {
+    display: block;
+    align-items: center;
+}
+
+body {
+    background-color: lightgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    color: brown;
+}
